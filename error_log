@@ -1,0 +1,430 @@
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:36:33 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:48:46 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:49:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'u278220770_sens'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:49:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:49:56 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 01:57:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 01:57:52 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:07:32 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 02:07:32 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:07:44 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:09:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:09:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:09:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:09:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:09:37 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:09:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 47
+[04-Nov-2016 02:09:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 51
+[04-Nov-2016 02:15:10 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 02:15:10 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:15:10 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 02:15:10 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:15:14 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 02:15:14 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:15:15 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 02:15:15 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:16:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 52
+[04-Nov-2016 02:16:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 55
+[04-Nov-2016 02:16:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 59
+[04-Nov-2016 02:16:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 52
+[04-Nov-2016 02:16:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 55
+[04-Nov-2016 02:16:14 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 59
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 52
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 55
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 59
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 52
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 55
+[04-Nov-2016 02:18:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 59
+[04-Nov-2016 02:23:56 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 19
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:24:46 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:26:23 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 19
+[04-Nov-2016 02:27:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:27:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:27:31 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:27:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:27:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:27:32 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:27:51 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 19
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 24
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 02:27:58 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[04-Nov-2016 02:31:55 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 19
+[04-Nov-2016 02:37:01 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:37:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:37:01 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 02:37:12 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:37:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:37:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 02:37:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:37:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:37:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 02:40:14 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:40:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:41:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:41:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:41:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:41:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:41:19 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/tarkdjxq/public_html/weathermonitor/index.php on line 57
+[04-Nov-2016 02:43:00 Etc/GMT] PHP Fatal error:  Call to undefined function setData() in /home/tarkdjxq/public_html/weathermonitor/index.php on line 19
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 42
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 45
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 42
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 45
+[04-Nov-2016 02:43:12 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 42
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 45
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 42
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 45
+[04-Nov-2016 02:45:51 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[04-Nov-2016 02:51:55 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:51:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:51:55 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 02:52:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:52:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:52:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 02:52:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tarkdjxq_weathermonitor'@'localhost' (using password: YES) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 41
+[04-Nov-2016 02:52:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 44
+[04-Nov-2016 02:52:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[04-Nov-2016 03:02:10 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/tarkdjxq/public_html/weathermonitor/index.php on line 39
+[04-Nov-2016 03:02:10 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/tarkdjxq/public_html/weathermonitor/index.php on line 39
+[04-Nov-2016 03:02:10 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/tarkdjxq/public_html/weathermonitor/index.php on line 39
+[04-Nov-2016 03:02:10 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/tarkdjxq/public_html/weathermonitor/index.php on line 39
+[04-Nov-2016 03:10:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 37
+[04-Nov-2016 03:11:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 37
+[04-Nov-2016 03:11:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 37
+[04-Nov-2016 23:03:51 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[04-Nov-2016 23:07:23 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[04-Nov-2016 23:08:04 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:08:04 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[04-Nov-2016 23:11:59 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:11:59 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[04-Nov-2016 23:18:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:18:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:19:01 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[04-Nov-2016 23:19:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[04-Nov-2016 23:20:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:20:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:20:21 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[04-Nov-2016 23:20:22 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[04-Nov-2016 23:21:35 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:21:35 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:22:55 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:22:55 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:24:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[04-Nov-2016 23:29:11 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:29:11 Etc/GMT] PHP Notice:  Undefined variable: var_dump in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:29:11 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:29:31 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[04-Nov-2016 23:29:31 Etc/GMT] PHP Notice:  Undefined variable: var_dump in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:29:31 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:50:23 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:50:24 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:50:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:50:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:51:08 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:51:08 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:51:52 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:51:52 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:52:08 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:52:09 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:52:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:52:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[04-Nov-2016 23:52:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 27
+[05-Nov-2016 01:08:39 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[05-Nov-2016 01:08:39 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[05-Nov-2016 01:20:14 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 01:20:15 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 01:32:41 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[05-Nov-2016 01:32:41 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[05-Nov-2016 01:33:03 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 01:33:03 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 01:53:19 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 25
+[05-Nov-2016 01:53:19 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 26
+[05-Nov-2016 02:12:15 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 02:12:16 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 17:06:49 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 17:06:49 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 17:06:49 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 43
+[05-Nov-2016 17:26:32 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:26:32 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:26:33 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:29:22 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:29:23 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:29:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:29:29 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:34:24 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:34:24 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:34:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:44 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:44 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:45 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:46 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:46 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:38:47 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:02 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:02 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:03 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:40:18 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:40:19 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:41:02 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:41:02 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:41:03 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:44:12 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 17:55:18 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 17:55:19 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 18:01:10 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:01:11 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:01:59 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:02:00 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:02:30 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:02:32 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:02:54 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:02:55 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:04:23 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:04:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 61
+[05-Nov-2016 18:05:17 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 18:05:19 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 18:07:24 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 18:07:25 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 60
+[05-Nov-2016 18:18:43 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 18:18:44 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 48
+[05-Nov-2016 18:21:30 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 18:21:32 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 18:29:37 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 18:40:51 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 18:40:54 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 18:45:22 Etc/GMT] PHP Notice:  Undefined variable: datos in /home/tarkdjxq/public_html/weathermonitor/index.php on line 49
+[05-Nov-2016 21:38:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 50
+[05-Nov-2016 21:38:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/tarkdjxq/public_html/weathermonitor/index.php on line 50
+[06-Nov-2016 00:55:56 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[06-Nov-2016 00:55:56 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[10-Nov-2016 23:17:18 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[10-Nov-2016 23:17:18 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[10-Nov-2016 23:17:39 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[10-Nov-2016 23:17:39 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:24:18 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:24:18 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:24:38 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:24:38 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:24:59 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:24:59 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:25:20 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:25:20 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:25:41 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:25:41 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:26:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:26:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:26:23 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:26:23 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:26:44 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:26:44 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:27:05 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:27:05 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:27:26 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:27:26 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:27:47 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:27:47 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:28:08 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:28:08 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:28:29 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:28:29 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:28:50 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:28:50 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:29:11 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:29:11 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:29:32 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:29:32 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:29:53 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:29:53 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:30:14 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:30:14 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:30:35 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:30:35 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:30:56 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:30:56 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:31:17 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:31:17 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:31:38 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:31:38 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:31:59 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:31:59 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:32:20 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:32:20 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:32:41 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:32:41 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:33:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:33:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:33:23 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:33:23 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:39:00 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:39:00 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:43:52 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:43:52 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:44:12 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:44:12 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:44:33 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:44:33 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:44:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:44:54 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:45:15 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:45:15 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:45:36 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:45:36 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:46:45 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:46:45 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:47:06 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:47:06 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:47:27 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:47:27 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 03:47:48 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 03:47:48 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:08:03 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:08:03 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:08:23 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:08:23 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:08:44 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:08:44 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:09:05 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:09:05 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:09:26 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:09:26 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:09:47 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:09:47 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:10:08 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:10:08 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:10:29 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:10:29 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:10:50 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:10:50 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:12:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:12:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:12:22 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:12:22 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:12:43 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:12:43 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:13:04 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:13:04 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:13:25 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:13:25 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:13:46 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:13:46 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:14:07 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:14:07 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:14:28 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:14:28 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:14:49 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:14:49 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:15:10 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:15:10 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:15:31 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:15:31 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:15:52 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:15:52 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 04:16:13 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 04:16:13 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:40:43 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:40:43 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:41:02 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:41:02 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:41:33 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:41:33 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:41:54 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:41:54 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:42:14 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:42:14 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:42:36 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:42:36 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:42:57 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:42:57 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:43:18 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:43:18 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:43:39 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:43:39 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:44:01 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:44:01 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:44:21 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:44:41 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:44:41 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:45:03 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:45:03 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:45:24 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:45:24 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:45:44 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:45:44 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:46:05 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:46:05 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:46:27 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:46:27 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:46:48 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:46:48 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:47:09 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:47:09 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:47:30 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:47:30 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:47:50 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:47:50 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:48:11 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:48:11 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:48:32 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:48:32 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:48:53 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:48:53 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:49:14 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:49:14 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:49:36 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:49:36 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:49:56 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:49:56 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:50:17 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:50:17 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:50:38 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:50:38 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:51:01 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:51:01 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34
+[11-Nov-2016 05:51:20 Etc/GMT] PHP Notice:  Undefined index: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 31
+[11-Nov-2016 05:51:20 Etc/GMT] PHP Notice:  Undefined variable: data in /home/tarkdjxq/public_html/weathermonitor/index.php on line 34

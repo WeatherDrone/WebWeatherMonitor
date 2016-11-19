@@ -1,0 +1,5 @@
+- Que use : Notepad++
+- Lenguajes: HTML, CSS, Javascript(JQuery), PHP, SQL
+- Jerarquia de codigo: Front-end: HTML, CSS, Javascript
+					   Back-end: Javascript, PHP
+- 
