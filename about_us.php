@@ -33,7 +33,7 @@
 	
     <div class="row">
         <h1 class="title">
-            THE BEST TEAM YOU WILL EVER SEE
+            THE BEST TEAM YOU WILL EVER-EVER SEE
             <br>
             <small>Meet the crazy bastards who started this amazing project!</small>
         </h1>
