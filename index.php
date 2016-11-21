@@ -31,7 +31,7 @@
 			<ul>
 				<li><a href="index.php" data-content="The beginning">Inicio</a></li>
 				<li><a href="about_us.php" data-content="Curious?">About Us</a></li>
-				<li><a href="graphs.php" data-content="I got game">Monitoring</a></li>
+				<li><a href="graphs.php" data-content="I got game">Monitorin'</a></li>
 				<li><a href="https://weathermonitorblog.wordpress.com/" data-content="Only the finest">Blog</a></li>
 			
 			</ul>
